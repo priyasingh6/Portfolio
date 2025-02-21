@@ -1,7 +1,7 @@
  import { useState } from "react";
 import menuIcon from "/assets/menu.svg";
 import closeIcon from "/assets/close.svg";
-import { navLinks } from "../constants";
+import { navLinks } from "../Constants";
  const NavItems=()=>{
      return(
          <ul className= "nav-ul">
