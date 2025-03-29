@@ -26,7 +26,7 @@ const About = () => {
                         <div>
                             <p className="grid-headtext text-xl font-semibold mb-2 text-white">Hey, I'm Priya...</p>
                             <p className="grid-subtext">
-                                With 1 year 6 months of experience as a web developer, I have honed my skills in frontend and backend development. I have a strong passion for creating visually appealing and user-friendly websites. My goal is to bring your ideas to life and help you achieve your goals.
+                                With over a year of experience as a web developer, I have honed my skills in frontend and backend development. I have a strong passion for creating visually appealing and user-friendly websites. My goal is to bring your ideas to life and help you achieve your goals.
                             </p>
                         </div>
                     </div>
@@ -39,7 +39,7 @@ const About = () => {
                         <div>
                             <p className="grid-headtext text-xl font-semibold mb-2 text-white">Tech Stack...</p>
                             <p className="grid-subtext">
-                                I specialize in JavaScript with a focus on React and Next.js. I have a strong understanding of HTML, CSS, and JavaScript, and I am proficient in using modern tools and frameworks to create dynamic and interactive web applications.
+                                I specialize in JavaScript with a focus on ReactJS. I have a strong understanding of HTML, CSS, and JavaScript, and I am proficient in using modern tools and frameworks to create dynamic and interactive web applications.
                             </p>
                         </div>
                     </div>
