@@ -215,9 +215,9 @@ export const workExperiences = [
         id: 1,
         name: 'Frontend Developer',
         pos: 'Heeric technologies llp',
-        duration: ' jan 2023 - Present',
+        duration: ' jan 2024 - Present',
         title: "As a Frontend Developer, I specialize in crafting dynamic and responsive user interfaces. My expertise includes building scalable web applications, optimizing performance, and ensuring seamless user experiences.",
-        icon: '/assets/framer.svg',
+        icon: '/assets/react-2.svg',
         animation: 'victory',
     },
     {
@@ -226,7 +226,7 @@ export const workExperiences = [
         pos: 'Self-Employed',
         duration: 'part time',
         title: "As a Freelance Web Developer, I design and develop custom websites, ensuring high performance, responsive design, and seamless user experience. I specialize in front-end and back-end technologies to build scalable web solutions for diverse clients.",
-        icon: '/assets/figma.svg',
+        icon: '/assets/web.svg',
         animation: 'victory',
     },
 
