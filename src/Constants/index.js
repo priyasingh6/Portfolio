@@ -32,14 +32,7 @@ export const clientReviews = [
         review:
             'Priya’s coding skills are top-notch! She built a sleek, fast, and user-friendly website for our business. Super professional and easy to work with!'
     },
-    {
-        id: 2,
-        name: 'Mark',
-        position: 'Founder of TechGear Shop',
-        img: 'assets/review2.png',
-        review:
-        ' The quality is unbeatable, and her service is excellent. Definitely worth every penny!',
-    },
+   
     {
         id: 3,
         name: 'Dheeraj jha',
@@ -49,14 +42,7 @@ export const clientReviews = [
            'GiftAura by Pride" offers a fantastic range of unique and high-quality gifts! The packaging is elegant, and the delivery is super fast. Highly recommended!',
 
     },
-    {
-        id: 4,
-        name: 'Ethan',
-        position: 'CEO of BrightStar Tech',
-        img: 'assets/review4.png',
-        review:
-            'Priya was a pleasure to work with. she understood our requirements perfectly and delivered a website that exceeded our expectations. Her skills in both frontend backend dev are top-notch.',
-    },
+  
 ];
 
 export const myProjects = [
